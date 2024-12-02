@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\presentation\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\presentation\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\dataaccess\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dataaccess\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\dataaccess\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dataaccess\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\dataaccess\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dataaccess\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|c:\\users\\pc\\source\\repos\\ecommerce\\ecommerce\\business\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B1F95E-6F9E-45EF-AEBE-BE67A33B4460}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\business\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 166,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T07:07:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeToolTip": "ECommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T07:06:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Presentation\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Presentation\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:58:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ECommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\ECommerceContext.cs",
+              "RelativeDocumentMoniker": "ECommerce\\DataAccess\\ECommerceContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\ECommerceContext.cs",
+              "RelativeToolTip": "ECommerce\\DataAccess\\ECommerceContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:46:11.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Business\\Helper.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Business\\Helper.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Business\\Helper.cs",
+              "RelativeToolTip": "ECommerce\\Business\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:45:59.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ECommerce\\DataAccess\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\LoginModel.cs",
+              "RelativeToolTip": "ECommerce\\DataAccess\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:44:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Presentation\\UserController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Presentation\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\Presentation\\UserController.cs",
+              "RelativeToolTip": "ECommerce\\Presentation\\UserController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:43:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\User.cs",
+              "RelativeDocumentMoniker": "ECommerce\\DataAccess\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ECommerce\\ECommerce\\DataAccess\\User.cs",
+              "RelativeToolTip": "ECommerce\\DataAccess\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:39:52.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

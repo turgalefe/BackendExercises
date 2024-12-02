@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiGateway",
+    "\\OrderService",
+    "\\OrderService\\Data",
+    "\\OrderService\\Models",
+    "\\ProductService"
+  ],
+  "SelectedNode": "\\ApiGateway\\ocelot.json",
+  "PreviewInSolutionExplorer": false
+}

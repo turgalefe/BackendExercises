@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\UserApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|c:\\users\\pc\\source\\repos\\userapplication\\userapplication\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A1CDA4-2575-4AE1-B7A9-C9B41233976F}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\utils\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T07:55:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Model\\User.cs",
+              "RelativeToolTip": "UserApplication\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:52:51.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserApplication\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAA9wHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:48:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Model\\LoginModel.cs",
+              "RelativeToolTip": "UserApplication\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:47:53.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "UserApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\appsettings.json",
+              "RelativeToolTip": "UserApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:47:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Program.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Program.cs",
+              "RelativeToolTip": "UserApplication\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAADgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Utils\\Helper.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Utils\\Helper.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\UserApplication\\UserApplication\\Utils\\Helper.cs",
+              "RelativeToolTip": "UserApplication\\Utils\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:26.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\handler\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\handler\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\models\\db\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\models\\db\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\viewmodel\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\viewmodel\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\migrations\\20240804134936_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\migrations\\20240804134936_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|c:\\users\\pc\\source\\repos\\jwt\\jwt\\migrations\\20240802105345_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258E263E-0E34-441E-8794-7A0A2F1457E6}|JWT\\JWT.csproj|solutionrelative:jwt\\migrations\\20240802105345_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "JWT\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "JWT\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:17:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWT\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWT\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T07:28:10.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240804134936_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\20240804134936_mig1.cs",
+              "RelativeDocumentMoniker": "JWT\\Migrations\\20240804134936_mig1.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\20240804134936_mig1.cs",
+              "RelativeToolTip": "JWT\\Migrations\\20240804134936_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:49:36.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\ViewModel\\UserLogin.cs",
+              "RelativeDocumentMoniker": "JWT\\ViewModel\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\ViewModel\\UserLogin.cs",
+              "RelativeToolTip": "JWT\\ViewModel\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:22:36.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Handler\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "JWT\\Handler\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Handler\\TokenHandler.cs",
+              "RelativeToolTip": "JWT\\Handler\\TokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:13:08.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "JWT\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\Token.cs",
+              "RelativeToolTip": "JWT\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:10:59.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWT.http",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\JWT.http",
+              "RelativeDocumentMoniker": "JWT\\JWT.http",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\JWT.http",
+              "RelativeToolTip": "JWT\\JWT.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-02T11:09:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:59:34.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240802105345_InitialCreat.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\20240802105345_InitialCreat.cs",
+              "RelativeDocumentMoniker": "JWT\\Migrations\\20240802105345_InitialCreat.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Migrations\\20240802105345_InitialCreat.cs",
+              "RelativeToolTip": "JWT\\Migrations\\20240802105345_InitialCreat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:53:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Program.cs",
+              "RelativeDocumentMoniker": "JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Program.cs",
+              "RelativeToolTip": "JWT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:46:09.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\appsettings.json",
+              "RelativeToolTip": "JWT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T10:42:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWT\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\User.cs",
+              "RelativeToolTip": "JWT\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:38:17.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Datacontext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\DB\\Datacontext.cs",
+              "RelativeDocumentMoniker": "JWT\\Models\\DB\\Datacontext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\JWT\\JWT\\Models\\DB\\Datacontext.cs",
+              "RelativeToolTip": "JWT\\Models\\DB\\Datacontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:36:49.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

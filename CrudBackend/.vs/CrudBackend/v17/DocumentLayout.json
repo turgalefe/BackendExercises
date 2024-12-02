@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CrudBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\controllers\\recordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\dtos\\recorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\dtos\\recorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|c:\\users\\pc\\source\\repos\\crudbackend\\crudbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE74D09E-6735-4A64-A4D2-D3B63EE6577B}|CrudBackend\\CrudBackend.csproj|solutionrelative:crudbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\appsettings.json",
+              "RelativeToolTip": "CrudBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T12:47:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Program.cs",
+              "RelativeDocumentMoniker": "CrudBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Program.cs",
+              "RelativeToolTip": "CrudBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:45:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Models\\Records.cs",
+              "RelativeDocumentMoniker": "CrudBackend\\Models\\Records.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Models\\Records.cs",
+              "RelativeToolTip": "CrudBackend\\Models\\Records.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:45:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\DTOs\\RecordDto.cs",
+              "RelativeDocumentMoniker": "CrudBackend\\DTOs\\RecordDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\DTOs\\RecordDto.cs",
+              "RelativeToolTip": "CrudBackend\\DTOs\\RecordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:42:21.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CrudBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CrudBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:42:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Controllers\\RecordsController.cs",
+              "RelativeDocumentMoniker": "CrudBackend\\Controllers\\RecordsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CrudBackend\\CrudBackend\\Controllers\\RecordsController.cs",
+              "RelativeToolTip": "CrudBackend\\Controllers\\RecordsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:41:34.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Project01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\controllers\\userlikedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\controllers\\userlikedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\viewmodels\\postuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\viewmodels\\postuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\viewmodels\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\viewmodels\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\model\\userliked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\model\\userliked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\model\\project01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\model\\project01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\handler\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\handler\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\validators\\userlikedvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\validators\\userlikedvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|c:\\users\\pc\\source\\repos\\project01\\project01\\viewmodels\\postuserlikedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F56AB1-2AF4-41F0-A81F-89BD985CF588}|Project01\\Project01.csproj|solutionrelative:project01\\viewmodels\\postuserlikedviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\appsettings.json",
+              "RelativeDocumentMoniker": "Project01\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\appsettings.json",
+              "RelativeToolTip": "Project01\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T12:22:54.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Project01\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Program.cs",
+              "RelativeToolTip": "Project01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:22:52.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\Token.cs",
+              "RelativeDocumentMoniker": "Project01\\Model\\Token.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\Token.cs",
+              "RelativeToolTip": "Project01\\Model\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:18:20.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Project01\\ViewModels\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\UserLogin.cs",
+              "RelativeToolTip": "Project01\\ViewModels\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:53:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project01\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project01\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:51:09.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Handler\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Project01\\Handler\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Handler\\TokenHandler.cs",
+              "RelativeToolTip": "Project01\\Handler\\TokenHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:47:57.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLikedValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Validators\\UserLikedValidator.cs",
+              "RelativeDocumentMoniker": "Project01\\Validators\\UserLikedValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Validators\\UserLikedValidator.cs",
+              "RelativeToolTip": "Project01\\Validators\\UserLikedValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:33:46.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Project01\\Validators\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "Project01\\Validators\\UserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:16:08.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostUserLikedViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\PostUserLikedViewModel.cs",
+              "RelativeDocumentMoniker": "Project01\\ViewModels\\PostUserLikedViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\PostUserLikedViewModel.cs",
+              "RelativeToolTip": "Project01\\ViewModels\\PostUserLikedViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:08:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Project01\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\User.cs",
+              "RelativeToolTip": "Project01\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:15:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLiked.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\UserLiked.cs",
+              "RelativeDocumentMoniker": "Project01\\Model\\UserLiked.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\UserLiked.cs",
+              "RelativeToolTip": "Project01\\Model\\UserLiked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:13:23.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLikedController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\UserLikedController.cs",
+              "RelativeDocumentMoniker": "Project01\\Controllers\\UserLikedController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\UserLikedController.cs",
+              "RelativeToolTip": "Project01\\Controllers\\UserLikedController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:01:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project01Context.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\Project01Context.cs",
+              "RelativeDocumentMoniker": "Project01\\Model\\Project01Context.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Model\\Project01Context.cs",
+              "RelativeToolTip": "Project01\\Model\\Project01Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:58:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\PostUserViewModel.cs",
+              "RelativeDocumentMoniker": "Project01\\ViewModels\\PostUserViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\ViewModels\\PostUserViewModel.cs",
+              "RelativeToolTip": "Project01\\ViewModels\\PostUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:50:52.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Project01\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Project01\\Project01\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Project01\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:32:24.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
